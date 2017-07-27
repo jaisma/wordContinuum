@@ -1,7 +1,4 @@
-import this
-
 def main():
-    print(this)
-
+    print("Hello Jai, I love you!")
 if __name__ == '__main__':
     main()
